@@ -1,10 +1,11 @@
 
 ### 基本信息
 ---
->基本信息
-姓名：张洋             年龄：28           电话：17521087305
-性别：男               籍贯：河南新蔡      邮箱：zhangyang89hi@126.com
-github：https://github.com/zhangyang89hi/resume.git
+>
+姓名：张洋洋           年龄：28           电话：17521087305  
+性别：男               籍贯：河南新蔡      邮箱：zhangyang89hi@126.com  
+github：https://github.com/zhangyang89hi/resume.git  
+
 ### 教育经历
 ---
 
