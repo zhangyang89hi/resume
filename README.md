@@ -13,17 +13,17 @@ github：https://github.com/zhangyang89hi/resume.git
 
 ### 职业技能
 ---
-+熟练掌握HTML/CSS/JavaScript，熟悉HTML5/CSS3/ES6新特性，
++ 熟练掌握HTML/CSS/JavaScript，熟悉HTML5/CSS3/ES6新特性，
 
-+掌握jQuery / jQuery UI / Bootstrap 等前端框架的使用和开发
++ 掌握jQuery / jQuery UI / Bootstrap 等前端框架的使用和开发
 
-+熟练使用Sass 、Gulp、Webpack等预处理/自动化构建工具进行前端工程化开发
++ 熟练使用Sass 、Gulp、Webpack等预处理/自动化构建工具进行前端工程化开发
 
-+熟悉Vue+Vuex及全家桶，了解框架实现原理，并有项目开发经验；
++ 熟悉Vue+Vuex及全家桶，了解框架实现原理，并有项目开发经验；
 
-+理解Web,W3C标准 掌握基本的前端兼容性处理、跨浏览器适配，性能优化知识与技巧，有Web性能优化经验
++ 理解Web,W3C标准 掌握基本的前端兼容性处理、跨浏览器适配，性能优化知识与技巧，有Web性能优化经验
 
-+熟悉Linux操作，了解Node.js、express框架以及mysql等
++ 熟悉Linux操作，了解Node.js、express框架以及mysql等
 ### 工作经历/项目经历
 ---
 2016.05 - 2017.09          上海恒兆节能科技有限公司            软件开发工程师
