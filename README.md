@@ -49,18 +49,9 @@ Github：https://github.com/zhangyang89hi/resume.git
 
 ### 展示
 ---
-1 <img src="./picture/dashboard.png" style="width:600px;height:400px" alt="dashboard">
-2 <img src="./picture/deviceMap.png" style="width:600px;height:400px" alt="deviceMap">
-3 <img src="./picture/deviceManage.png" style="width:600px;height:400px" alt="deviceManage">
-4 <img src="./picture/user.png" style="width:600px;height:400px" alt="user">
-5 <img src="./picture/warning.png" style="width:600px;height:400px" alt="warning">
-6 <img src="./picture/mobile.png" style="width:600px;height:400px" alt="mobile">
 
-![dashboard](./picture/dashboard.png)
-
-### 列表
-<ul>
-    <li><img src="./picture/dashboard.png" style="width:600px;height:400px" alt="dashboard"></li>
+<ul  style="list-style-type: none;">
+    <li><img src="./picture/dashboard.png" style="width:600px;height:400px;" alt="dashboard"></li>
     <li><img src="./picture/deviceMap.png" style="width:600px;height:400px" alt="deviceMap"></li>
     <li><img src="./picture/deviceManage.png" style="width:600px;height:400px" alt="deviceManage"></li>
     <li><img src="./picture/user.png" style="width:600px;height:400px" alt="user"></li>
