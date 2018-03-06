@@ -49,4 +49,4 @@ Github：https://github.com/zhangyang89hi/resume.git
 
 ### 展示
 ---
-<img src="./picture/dashboard.png">
+<img src="./picture/dashboard.png" style="width:600px;height:400px">
