@@ -49,4 +49,18 @@ Github：https://github.com/zhangyang89hi/resume.git
 
 ### 展示
 ---
-<img src="./picture/dashboard.png" style="width:600px;height:400px">
++ <img src="./picture/dashboard.png" style="width:600px;height:400px" alt="dashboard">
++ <img src="./picture/deviceMap.png" style="width:600px;height:400px" alt="deviceMap">
++ <img src="./picture/deviceManage.png" style="width:600px;height:400px" alt="deviceManage">
++ <img src="./picture/user.png" style="width:600px;height:400px" alt="user">
++ <img src="./picture/warning.png" style="width:600px;height:400px" alt="warning">
++ <img src="./picture/mobile.png" style="width:600px;height:400px" alt="mobile">
+
+<ul>
+    <li><img src="./picture/dashboard.png" style="width:600px;height:400px" alt="dashboard"></li>
+    <li><img src="./picture/deviceMap.png" style="width:600px;height:400px" alt="deviceMap"></li>
+    <li><img src="./picture/deviceManage.png" style="width:600px;height:400px" alt="deviceManage"></li>
+    <li><img src="./picture/user.png" style="width:600px;height:400px" alt="user"></li>
+    <li><img src="./picture/warning.png" style="width:600px;height:400px" alt="warning"></li>
+    <li><img src="./picture/mobile.png" style="width:600px;height:400px" alt="mobile"></li>
+</ul>
