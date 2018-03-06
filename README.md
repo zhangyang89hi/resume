@@ -45,3 +45,8 @@ Github：https://github.com/zhangyang89hi/resume.git
 ### 自我评价
 ---
 具有良好的编程习惯和较强的的学习能力，良好的沟通能力，有团队合作精神和责任感，能够勇于承担重任。关注前端技术发展，喜欢研究新技术，熟悉web项目开发流程。
+
+
+### 展示
+---
+<img src="./picture/dashboard.png">
