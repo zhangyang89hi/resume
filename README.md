@@ -49,6 +49,8 @@ Github：https://github.com/zhangyang89hi/resume.git
 
 ### 展示
 ---
+![dashboard](./picture/dashboard.png)
+<img src="./picture/dashboard.png" style="width:300px;height:200px;" alt="dashboard">
 
 <ul  style="list-style: none;">
     <li><img src="./picture/dashboard.png" style="width:300px;height:200px;" alt="dashboard"></li>
