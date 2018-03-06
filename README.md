@@ -46,17 +46,11 @@ Github：https://github.com/zhangyang89hi/resume.git
 ---
 具有良好的编程习惯和较强的的学习能力，良好的沟通能力，有团队合作精神和责任感，能够勇于承担重任。关注前端技术发展，喜欢研究新技术，熟悉web项目开发流程。
 
-
-### 展示
----
+<!--
 ![dashboard](./picture/dashboard.png)
-<img src="./picture/dashboard.png" style="width:300px;height:200px;" alt="dashboard">
-
-<ul  style="list-style: none;">
-    <li><img src="./picture/dashboard.png" style="width:300px;height:200px;" alt="dashboard"></li>
-    <li><img src="./picture/deviceMap.png" style="width:300px;height:200px" alt="deviceMap"></li>
-    <li><img src="./picture/deviceManage.png" style="width:300px;height:200px" alt="deviceManage"></li>
-    <li><img src="./picture/user.png" style="width:300px;height:200px" alt="user"></li>
-    <li><img src="./picture/warning.png" style="width:300px;height:200px" alt="warning"></li>
-    <li><img src="./picture/mobile.png" style="width:300px;height:200px" alt="mobile"></li>
-</ul>
+![dashboard](./picture/deviceMap.png)
+![dashboard](./picture/deviceManage.png)
+![dashboard](./picture/user.png)
+![dashboard](./picture/warning.png)
+![dashboard](./picture/mobile.png)
+-->
