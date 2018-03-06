@@ -50,11 +50,11 @@ Github：https://github.com/zhangyang89hi/resume.git
 ### 展示
 ---
 
-<ul  style="list-style-type: none;">
-    <li><img src="./picture/dashboard.png" style="width:600px;height:400px;" alt="dashboard"></li>
-    <li><img src="./picture/deviceMap.png" style="width:600px;height:400px" alt="deviceMap"></li>
-    <li><img src="./picture/deviceManage.png" style="width:600px;height:400px" alt="deviceManage"></li>
-    <li><img src="./picture/user.png" style="width:600px;height:400px" alt="user"></li>
-    <li><img src="./picture/warning.png" style="width:600px;height:400px" alt="warning"></li>
-    <li><img src="./picture/mobile.png" style="width:600px;height:400px" alt="mobile"></li>
+<ul  style="list-style: none;">
+    <li><img src="./picture/dashboard.png" style="width:300px;height:200px;" alt="dashboard"></li>
+    <li><img src="./picture/deviceMap.png" style="width:300px;height:200px" alt="deviceMap"></li>
+    <li><img src="./picture/deviceManage.png" style="width:300px;height:200px" alt="deviceManage"></li>
+    <li><img src="./picture/user.png" style="width:300px;height:200px" alt="user"></li>
+    <li><img src="./picture/warning.png" style="width:300px;height:200px" alt="warning"></li>
+    <li><img src="./picture/mobile.png" style="width:300px;height:200px" alt="mobile"></li>
 </ul>
