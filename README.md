@@ -8,8 +8,8 @@
 
 求职意向：web前端开发	当前状态：已离职	期望薪资：12K
 
-Github：https://zhangyang89hi.github.io/
 ```
+Github：[https://zhangyang89hi.github.io/](https://zhangyang89hi.github.io/)
 
 ### 教育经历
 ---
@@ -38,9 +38,11 @@ Github：https://zhangyang89hi.github.io/
 ### 工作经历/项目经历
 ---
 2015.08 - 2016.2          郑州安控科技有限公司            嵌入式软件开发
+
 基于51，STM32系列单片机系统的嵌入式软件设计、开发和测试工作
 
 2016.05 - 2017.12          上海恒兆节能科技有限公司            软件开发工程师
+
 1. 公司网站建设和维护
 2. 配合架构师完成智能照明系统前端页面的开发工作
 3. 对照明控制系统进行调试，维护
